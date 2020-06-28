@@ -8,3 +8,6 @@
     + [Evaluation of Diagnostic Models](https://github.com/jaygshah/AI-for-Medicine/blob/master/AI%20for%20Medical%20Diagnosis/Week-2/C1M2_Assignment.ipynb)
   + Week 3
     + [Brain Tumor Auto-Segmentation for MRI](https://github.com/jaygshah/AI-for-Medicine/blob/master/AI%20for%20Medical%20Diagnosis/Week-3/C1M3_Assignment.ipynb)
++ **[AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)**
+  + Week 1
+    + [Using linear risk models & C-index](https://github.com/jaygshah/AI-for-Medicine/blob/master/AI%20for%20Medical%20Prognosis/Week-1/C2M1_Assignment.ipynb)
