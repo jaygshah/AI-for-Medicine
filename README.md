@@ -17,3 +17,10 @@
     + [Survival Analysis using non-parametric methods](https://github.com/jaygshah/AI-for-Medicine/blob/master/AI%20for%20Medical%20Prognosis/Week-3/C2M3_Assignment.ipynb)
   + Week-4
     + [Cox Proportional Hazards & Random Survival Forests](https://github.com/jaygshah/AI-for-Medicine/blob/master/AI%20for%20Medical%20Prognosis/Week-4/C2M4_Assignment.ipynb)
++ **[AI for Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)**
++ Week-1
+    + [Estimating Treatment Effect using ML](https://github.com/jaygshah/AI-for-Medicine/blob/master/AI%20for%20Medical%20Treatment/Week-1/C3M1_Assignment.ipynb)
+  + Week-2
+    + [Natural Language Entity Extraction](https://github.com/jaygshah/AI-for-Medicine/blob/master/AI%20for%20Medical%20Treatment/Week-2/C3M2_Assignment.ipynb)
+  + Week-3
+    + []()
