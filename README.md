@@ -23,4 +23,4 @@
   + Week-2
     + [Natural Language Entity Extraction](https://github.com/jaygshah/AI-for-Medicine/blob/master/AI%20for%20Medical%20Treatment/Week-2/C3M2_Assignment.ipynb)
   + Week-3
-    + []()
+    + [ML interpretation - GradCam and feature importance](https://github.com/jaygshah/AI-for-Medicine/blob/master/AI%20for%20Medical%20Treatment/Week-3/C3M3_Assignment.ipynb)
