@@ -25,4 +25,4 @@
   + Week-3
     + [ML interpretation - GradCam and feature importance](https://github.com/jaygshah/AI-for-Medicine/blob/master/AI%20for%20Medical%20Treatment/Week-3/C3M3_Assignment.ipynb)
 
-![Certificate](/documents/Certificate.png)
+![Certificate](/documents/certificate.png)
